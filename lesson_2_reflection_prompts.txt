@@ -20,3 +20,19 @@ manually?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 the In between area.  Allows you the ability to test code.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+git add itemizes your changes
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+On different features or versions of a particular computer program
+
+How do the diagrams help you visualize the branch structure?
+
+They help show you what is accessible and what is not.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+A combination of the two code bases together.  Because it has a code structure.
