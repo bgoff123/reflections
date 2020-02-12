@@ -36,3 +36,7 @@ They help show you what is accessible and what is not.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 A combination of the two code bases together.  Because it has a code structure.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatically would make sure that nothing fell between the cracks.  But it could have syntax or logic errors.
