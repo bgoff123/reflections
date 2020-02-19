@@ -31,3 +31,7 @@ master?  What benefits does each approach have?
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Forks are clones on Github.  Clones are clones on your local, and branches are different versions on local.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Ensures that you are up to date and allows for seamless development pattern.
